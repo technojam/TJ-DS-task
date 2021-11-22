@@ -4,8 +4,6 @@ This repository contains tasks related to the domain of Data science.
 
 _All of the tasks require you to have python/R installed._
 
-The structure of the repository is as follows:
-
 
 
 ## Resources: 
