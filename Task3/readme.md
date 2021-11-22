@@ -1,9 +1,9 @@
 # Task 3 
 ### Difficulty level _**Hard**_.
 
-## [https://www.kaggle.com/startupsci/titanic-data-science-solutions/data] (Titanic Analysis using R/python)  
+##  Titanic Analysis using R/python 
 
-
+[data set] (https://www.kaggle.com/startupsci/titanic-data-science-solutions/data)
 1.Understand the Dataset.
 
 2.Data Exploration
