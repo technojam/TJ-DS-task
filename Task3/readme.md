@@ -3,7 +3,7 @@
 
 ##  Titanic Analysis using R/python 
 
-[data set](https://www.kaggle.com/startupsci/titanic-data-science-solutions/data).
+[DataSet](https://www.kaggle.com/startupsci/titanic-data-science-solutions/data).
 
 1.Understand the Dataset.
 
